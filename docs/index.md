@@ -10,3 +10,5 @@ fn main() {
 ```
 
 Example of Rust code.
+
+I would love this to be updated `serde_json`.
