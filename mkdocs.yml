@@ -1,11 +1,11 @@
-site_name: Me as markdown code
+site_name: what_if
 site_description: Me as markdown code
 site_url: https://gordon01.github.io/obsidian/
 
 theme:
     name: 'material'
-    logo: assets/meta/logo.jpg
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicon.jpg
+    favicon: assets/meta/favicon.jpg
     custom_dir: overrides
     font:
         text: Ubuntu
